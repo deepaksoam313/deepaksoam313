@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Thakur Deepak Soam
-- 👀 I’m interested in Java,DSA and GCP.
-- 🌱 I’m currently learning kubernetes.
+- 👀 I’m interested in DevOps (AWS & GCP).
